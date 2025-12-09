@@ -1,0 +1,15 @@
+2025-12-09 17:08:25.453 [info] Extension host with pid 7549 started
+2025-12-09 17:08:25.453 [info] Skipping acquiring lock for /home/shane/.config/VSCodium/User/workspaceStorage/ad8d9e0e60a1e35942ca464fd5a28946.
+2025-12-09 17:08:25.653 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-09 17:08:25.683 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-09 17:08:25.700 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-09 17:08:25.708 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-09 17:08:25.769 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-09 17:08:26.047 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-09 17:08:26.067 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-09 17:08:26.118 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-09 17:08:26.243 [info] Eager extensions activated
+2025-12-09 17:08:26.249 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 17:08:26.251 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 17:13:06.595 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-09 17:13:06.620 [info] Extension host with pid 7549 exiting with code 0

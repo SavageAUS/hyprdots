@@ -1,0 +1,16 @@
+2025-12-09 15:54:01.167 [info] Extension host with pid 1620 started
+2025-12-09 15:54:01.167 [info] Skipping acquiring lock for /home/shane/.config/VSCodium/User/workspaceStorage/ad8d9e0e60a1e35942ca464fd5a28946.
+2025-12-09 15:54:01.194 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-09 15:54:01.222 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-09 15:54:01.239 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-09 15:54:01.247 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-09 15:54:01.315 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-09 15:54:01.592 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-09 15:54:01.602 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-09 15:54:01.658 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-09 15:54:01.782 [info] Eager extensions activated
+2025-12-09 15:54:01.786 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 15:54:01.789 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 15:55:56.542 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-12-09 15:59:07.345 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-09 15:59:07.357 [info] Extension host with pid 1620 exiting with code 0

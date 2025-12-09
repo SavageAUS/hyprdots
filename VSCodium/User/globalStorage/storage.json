@@ -1,0 +1,99 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "27f59e67b0562044c032699faed9475f15932f304240f01954849ac93c985e26",
+    "telemetry.devDeviceId": "1325ebb2-87d9-4904-aeaf-d0d60fc96dea",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/shane/.config"
+            },
+            {
+                "folderUri": "file:///home/shane/Documents"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/shane/.config": "__default__profile__",
+            "file:///home/shane/Downloads/Fedora-KDE-Desktop-Live-x86_64-43": "__default__profile__",
+            "file:///run/media/shane/Ventoy": "__default__profile__",
+            "file:///home/shane/Documents": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/shane/Documents",
+            "backupPath": "/home/shane/.config/VSCodium/Backups/0e3fc71290d9cf30fb4bc0533b9173c8",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 960,
+                "height": 523
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 236,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 236,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "31d59dada96218aab45d81ae6730db59": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "ad8d9e0e60a1e35942ca464fd5a28946": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "57726a992e2fd955df4ec707f2db9023": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "e3ecdb72886bbe7824b97bff763934ba": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "2a4e70279a006b7e37368253c26aec01": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

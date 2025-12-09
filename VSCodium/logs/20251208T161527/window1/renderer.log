@@ -1,0 +1,6 @@
+2025-12-08 16:15:28.660 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: workbench.secondarySideBar.enableDefaultVisibilityInOldWorkspace, commands.filters, extensions.requestTimeout, github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList, terminal.integrated.developer.devMode, terminal.integrated.developer.ptyHost.latency, terminal.integrated.developer.ptyHost.startupDelay
+2025-12-08 16:15:28.861 [info] Started local extension host with pid 7325.
+2025-12-08 16:15:31.054 [error] Cannot read properties of undefined (reading 'extensionId'): TypeError: Cannot read properties of undefined (reading 'extensionId')
+    at t (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:4125:2745)
+    at _Dt.recommendRemoteExtensionIfNeeded (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:4125:3497)
+2025-12-08 16:15:33.557 [info] [perf] Render performance baseline is 44ms
